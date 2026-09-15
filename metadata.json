@@ -1,0 +1,6 @@
+{
+  "name": "Coruja Finanças",
+  "description": "App de controle financeiro pessoal simples e direto, com contas do mês, fluxo de caixa, lista de mercado com modo compra, metas e investimentos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
